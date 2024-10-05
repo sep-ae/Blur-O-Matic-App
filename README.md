@@ -10,10 +10,9 @@ Integrasi WorkManager: Aplikasi memproses efek blur di latar belakang, memastika
 Dukungan Notifikasi: Aplikasi mengirim notifikasi ketika tugas blur selesai, bahkan saat berjalan di latar belakang.
 Pembaruan Status Real-time: Indikator progres ditampilkan selama proses blur berlangsung.
 
-# Codelab 1
+# Codelab 1 & 2
 https://developer.android.com/codelabs/basic-android-kotlin-compose-workmanager#0
 
-# Codelab 2
 https://developer.android.com/codelabs/basic-android-kotlin-compose-verify-background-work#0
 
 
